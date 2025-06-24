@@ -22,3 +22,19 @@ Puisque l'on est en fin de formation, vous avez le niveau :
 - Si je n'y suis pas arrivé, on s'y attaquera comme exercice.
 
 Workshop : [Mons 17-18 juillet 2025](https://github.com/EloiStree/HelloCpuGpuForQuest3FromKinect/tree/main/MonsJuly2025)
+
+
+
+
+
+
+
+
+----------------
+
+Some cool Shader and Job to fetch:
+https://github.com/EloiStree/2022_06_06_IrregularQuadrilateralsToTexture2D
+
+Some cool code to turn Texture to Bytes
+https://github.com/EloiStree/2022_06_12_TextureByteTransfertShader
+
