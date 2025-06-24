@@ -32,9 +32,9 @@ Workshop : [Mons 17-18 juillet 2025](https://github.com/EloiStree/HelloCpuGpuFor
 
 ----------------
 
-Some cool Shader and Job to fetch:
-https://github.com/EloiStree/2022_06_06_IrregularQuadrilateralsToTexture2D
+Some cool Shader and Job to fetch:  
+https://github.com/EloiStree/2022_06_06_IrregularQuadrilateralsToTexture2D  
 
-Some cool code to turn Texture to Bytes
-https://github.com/EloiStree/2022_06_12_TextureByteTransfertShader
+Some cool code to turn Texture to Bytes:    
+https://github.com/EloiStree/2022_06_12_TextureByteTransfertShader  
 
