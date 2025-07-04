@@ -26,8 +26,9 @@ Workshop : [Mons 17-18 juillet 2025](https://github.com/EloiStree/HelloCpuGpuFor
 
 
 
-RenderTexture or NativeArray<Color32>
-https://chatgpt.com/share/68672651-42d0-800e-b0e1-4348bc9174e1
+Buffer vs RenderTexture vs NativeArray<Color32> ? GPC VS CPU
+- https://chatgpt.com/share/68672651-42d0-800e-b0e1-4348bc9174e1
+- https://chatgpt.com/share/68672d9b-a72c-800e-9bac-3eefc7399b01
 
 Todo:
 - List all the project with compute shader amd job system I have done to remember how I did.
@@ -38,6 +39,7 @@ Todo:
 
 Some cool Shader and Job to fetch:  
 https://github.com/EloiStree/2022_06_06_IrregularQuadrilateralsToTexture2D  
+
 
 Some cool code to turn Texture to Bytes:    
 https://github.com/EloiStree/2022_06_12_TextureByteTransfertShader  
