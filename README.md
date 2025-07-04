@@ -26,7 +26,11 @@ Workshop : [Mons 17-18 juillet 2025](https://github.com/EloiStree/HelloCpuGpuFor
 
 
 
+RenderTexture or NativeArray<Color32>
+https://chatgpt.com/share/68672651-42d0-800e-b0e1-4348bc9174e1
 
+Todo:
+- List all the project with compute shader amd job system I have done to remember how I did.
 
 
 
