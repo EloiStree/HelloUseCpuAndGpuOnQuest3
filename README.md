@@ -1,6 +1,23 @@
-# Hello Cpu Gpu For Quest3 From Kinect
-I learn to use GPU and CPU in Unity for the Kinect 1 and 2. Now that the Quest3 have a mini RGB Depth kinect. I need to make a workshop on the topic..
+# You can do image processing on Unity Main Thread
 
+Good News: 
+- We have access to the camera of the Quest3
+Bad News:
+- Image processing need multithreading
+  - Solution: Use GPU and CPU Core 
+- Sometime compute power outside of a Quest cabability
+  - Solution: Compute on local LAN computer or server
+- API Creator stop focusing Unity for Godot And Unreal
+  - Solution: Use Python OpenCV and other API
+  - Solution: Create them ourself
+ 
+
+
+
+
+# Hello Cpu Gpu For Quest3 From Kinect
+
+I learn to use GPU and CPU in Unity for the Kinect 1 and 2. Now that the Quest3 have a mini RGB Depth kinect. I need to make a workshop on the topic...
 
 Main topic:
 - Job System
@@ -9,17 +26,10 @@ Main topic:
 - Copy Buffer
 - Texture2D
 - Color32
+- Texture2D
+- RenderTexture
 
 
-# FR: Workshop: Mons July 2025
-
-
-Nous avons deux jours ensemble pour parler du développement sur le Meta Quest 3. Je propose de passer la première journée à trianguler la mesure de la pièce. Ensuite, apprendre avec les Jobs et le Compute Shader comment on peut auto-calibrer une pièce en isolant une couleur de la caméra du Quest.
-
-Puisque l'on est en fin de formation, vous avez le niveau :
-
-- Si j'y suis arrivé, je vous l'enseignerai.
-- Si je n'y suis pas arrivé, on s'y attaquera comme exercice.
 
 Workshop : [Mons 17-18 juillet 2025](https://github.com/EloiStree/HelloCpuGpuForQuest3FromKinect/tree/main/MonsJuly2025)
 
