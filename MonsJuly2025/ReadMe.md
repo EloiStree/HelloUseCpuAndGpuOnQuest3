@@ -56,7 +56,8 @@
   - [ ] Observer le temps d’exécution
 - [ ] Essayer avec le Job System pour comparaison
   - [ ] Observer le temps d’exécution
-- [ ] **Exercice :*- [ ] Trouver les quatre coins d’un post-it
+- [ ] **Exercice :**
+  - [ ] Trouver les quatre coins d’un post-it
 
 ---
 
