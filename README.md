@@ -28,15 +28,36 @@ If you are out of 1-4 ms are going to feel it.
   - Avec un Job System
     - Utiliser plusieurs [CPU](https://youtu.be/Ge-g3xZ5bb8?t=18) 
  
+### Exercice: Convertir en un RendererTexture 
+
+
+### Exercice: Convertir votre RenderTexture en NativeArray<Color32>
+
+
+
+## Exercice: Transmettre votre image en UDP
+
+Would it not be easier if we could see the image on your computer ?
+UDP payload is of 65,527 so you need to send 14 packages and reconstruct them to do it.
+Doable with Compute, Job and Memory Copy. Did in the past. But complexe and heavy.
+
+Il nous faut donc Scale Down la texture.
+Vous pouvez utiliser Blit qui fait tout pour vous.
+RenderTexture rt = new RenderTexture(1280, 930, 0);
+Graphics.Blit(sourceTexture, rt);
+
+Ou faire la moyen de pixel avec un ComputeShader:
+Something like this ( I have to do it later):
+https://chatgpt.com/share/6873baef-b1b8-800e-aa01-3f9d8cc6953f
+
+
+### Exercice: Convertir un image pour rentrer dans un package UDP.
+- 128x93 = 11,904 * 3 colors = 35,712 bytes
+
+### Exercice: Convertir un image pour rentrer dans 3 packages UDP RGB.
+- 256x196 = 47,616 bytes
+
   
- 
-
-
-
-
-# Hello Cpu Gpu For Quest3 From Kinect
-
-I learn to use GPU and CPU in Unity for the Kinect 1 and 2. Now that the Quest3 have a mini RGB Depth kinect. I need to make a workshop on the topic...
 
 Main Keywords :
 > Job System , Compute Shader, Shader Graph, Copy Buffer ,Texture2D, Color32 ,Texture2D ,RenderTexture, Native Array, Graphic Blit
