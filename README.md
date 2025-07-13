@@ -1,4 +1,6 @@
-# You can do image processing on Unity Main Thread
+# Use CPU and GPU for Quest3 
+
+> You can't do image processing on Unity Main Thread due to [complexity](https://github.com/EloiStree/HelloSharpForUnity3D/issues/49)
 
 Good News: 
 - We have access to the camera of the Quest3
