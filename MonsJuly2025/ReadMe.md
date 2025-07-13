@@ -22,6 +22,7 @@
 - [ ] Installer Link sur le PC
 - [ ] Vérifier si les PC supportent Link
 - [ ] Créer un circuit
+- [ ] Jouer a [XRTK](www.youtube.com/watch?v=eDicfcAgJB4&pp=0gcJCb4JAYcqIYzv)
 
 ---
 
