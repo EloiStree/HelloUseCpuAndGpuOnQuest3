@@ -2,6 +2,17 @@
 
 > You can't do image processing on Unity Main Thread due to [complexity](https://github.com/EloiStree/HelloSharpForUnity3D/issues/49)
 
+Objectif de la demarche:
+- Explorer la triangulation par la couleur d un Quest3.
+
+Challenge du projet:
+- Tracker un balle de ping pong via la WebCam
+- Tracker des Post It de couleur
+- Recalibrer un jouer par rapport aux lumieres blanches d une piece.
+- Utiliser le Depth API en partenaria avec la Camera.
+- Screen Color Transfert: Inventer un transmittion de donner par la couleur d un ecran.
+
+
 [<img width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/3dcde71a-04cd-40fc-9670-f72e9d886c38" />](https://www.pcmag.com/news/what-is-8k-should-you-buy-a-new-tv-or-wait)
 
 Photo of the Quest3:
@@ -29,6 +40,13 @@ If you are out of 1-4 ms are going to feel it.
     - Utiliser plusieurs [CPU](https://youtu.be/Ge-g3xZ5bb8?t=18) 
  
 ### Exercice: Convertir en un RendererTexture 
+
+#### Un [Texture2D](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/216)
+
+
+#### Un [WebcamTexture](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/337)
+
+
 
 
 ### Exercice: Convertir votre RenderTexture en NativeArray<Color32>
