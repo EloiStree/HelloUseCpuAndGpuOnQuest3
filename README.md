@@ -1,43 +1,38 @@
+
+> Keep it simple stupide: **A Sphere where the tennis table ball is.**
+
+https://xrbootcamp.typeform.com/xraihack2025
+
+
+www.youtube.com/watch?v=eDicfcAgJB4&pp=0gcJCb4JAYcqIYzv
+---------
+
 # Use CPU and GPU for Quest3 
 
 > You can't do image processing on Unity Main Thread due to [complexity](https://github.com/EloiStree/HelloSharpForUnity3D/issues/49)
-
-Objectif de la demarche:
-- Explorer la triangulation par la couleur d un Quest3.
-
-Challenge du projet:
-- Tracker un balle de ping pong via la WebCam
-- Tracker des Post It de couleur
-- Recalibrer un jouer par rapport aux lumieres blanches d une piece.
-- Utiliser le Depth API en partenaria avec la Camera.
-- Screen Color Transfert: Inventer un transmittion de donner par la couleur d un ecran.
-
-
-[<img width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/3dcde71a-04cd-40fc-9670-f72e9d886c38" />](https://www.pcmag.com/news/what-is-8k-should-you-buy-a-new-tv-or-wait)
 
 Photo of the Quest3:
 | | |
 |-|-|
 |<img width="1280" height="960" alt="LightNightLine" src="https://github.com/user-attachments/assets/959f7be3-46d9-4276-9c87-b888903cf86e" />|<img width="1280" height="960" alt="BigLightInKitchen" src="https://github.com/user-attachments/assets/b1736f24-79f1-4891-b45d-0db2ea28090f" />|
 
-**Kinect**: 520x400 = 208,000  
-**Quest3**: 1280x960 = 883,200  
-**Phone Camera**: 1920x1080 = 2,073,600  
-**Quest Screen**: 3840x2160 = 8,294,400  
+**Kinect**: 520x400 = 208000  
+**Quest3**: 1280x960 = 883200   
+**Phone Camera**: 1920x1080 = 2073600  
+**Quest Screen**: 3840x2160 = 8294400  
 
-### Exercice: Comfronter vous a l impuissance de votre CPU face a 16 ms
+### Exercice:  16 ms !
 
-You game must run on 16 milliseconds to be over 60 FPS.
-Unity and the reste take 8 ms out. 
-You have 8 ms for your full game. 
-If you are out of 1-4 ms are going to feel it.
+Filtrer pour ne garder que l orange d une image.
+
 
 - Filtrer la couleur orange  d'un image
   - Avec vos connaissances actuelles
   - Avec un compute Shader
     - Utiliser le [GPU](https://youtu.be/Ge-g3xZ5bb8?t=18) 
   - Avec un Job System
-    - Utiliser plusieurs [CPU](https://youtu.be/Ge-g3xZ5bb8?t=18) 
+    - Utiliser plusieurs [CPU](https://youtu.be/Ge-g3xZ5bb8?t=18)
+  - Bonus: Avec ShaderGraph
  
 ### Exercice: Convertir en un RendererTexture 
 
@@ -99,4 +94,8 @@ https://github.com/EloiStree/2022_06_06_IrregularQuadrilateralsToTexture2D
 
 Some cool code to turn Texture to Bytes:    
 https://github.com/EloiStree/2022_06_12_TextureByteTransfertShader  
+
+
+Bullet collision:
+- https://youtu.be/aSQFWhV5ur8?t=1030
 
