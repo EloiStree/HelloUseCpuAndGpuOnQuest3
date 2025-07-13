@@ -30,7 +30,7 @@ Intention: Vous apprendre a configurer un project XR.
 
 # Vendredi
 
-Intention: Vous apprendre a utiliser de Compute Shader.
+Intention: Vous apprendre a utiliser de Compute Shader pour la XR
 
 **Matin :**
 
