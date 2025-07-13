@@ -2,6 +2,8 @@
 
 # Jeudi
 
+Intention: Vous apprendre a configurer un project XR.
+
 **Matin :**
 
 - Créer un projet Unity URP
@@ -27,6 +29,8 @@
 ---
 
 # Vendredi
+
+Intention: Vous apprendre a utiliser de Compute Shader.
 
 **Matin :**
 
