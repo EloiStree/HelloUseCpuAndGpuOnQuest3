@@ -32,6 +32,11 @@ Intention: Vous apprendre a configurer un project XR.
 
 Intention: Vous apprendre a utiliser de Compute Shader pour la XR
 
+Reproduire cette application perdu dans le temps: [Reality Hacker VR](https://reality-hacker-vr.en.softonic.com/android)
+[<img width="1901" height="995" alt="image" src="https://github.com/user-attachments/assets/d379e7ed-027f-48e4-9bb5-0e97162601aa" />](https://youtu.be/JnZOoryLwAI
+)  
+https://youtu.be/JnZOoryLwAI  
+
 **Matin :**
 
 - [ ] Cloner et configurer le projet de passthrough de Meta
