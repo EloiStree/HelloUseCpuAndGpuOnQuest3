@@ -80,3 +80,12 @@ https://youtu.be/JnZOoryLwAI
 
 Link:
 Les yeux du Daltonisme: https://lesyeuxdudaltonisme.fr/les-types-de-daltonisme/
+
+Creer un Gardiant de couleur sans Texture2D dans Unity
+https://chatgpt.com/share/68760590-a938-800e-b5ba-a99259b6d154
+
+
+[<img width="600" height="670" alt="image" src="https://github.com/user-attachments/assets/2ab051bc-40d9-457d-8469-5502cbcee609" />
+](https://scipython.com/blog/converting-a-spectrum-to-a-colour/)  
+https://scipython.com/blog/converting-a-spectrum-to-a-colour/  
+Maybe:https://chatgpt.com/share/687609af-98ec-800e-8f90-78556223c6e3
