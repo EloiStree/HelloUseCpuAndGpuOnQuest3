@@ -95,8 +95,7 @@ https://scipython.com/blog/converting-a-spectrum-to-a-colour/
 Maybe:https://chatgpt.com/share/687609af-98ec-800e-8f90-78556223c6e3
 
 
-
-https://gitlab.com/eloistree/2018_06_01_MeshToVoxel
+https://gitlab.com/eloistree/2018_06_01_MeshToVoxel  
 
 
 
@@ -248,7 +247,20 @@ Oculus DK12 Chromatic aberration:
 
 Sober Edge 
 [<img width="673" height="666" alt="image" src="https://github.com/user-attachments/assets/fb5c2504-14f0-4373-b4ba-e1b2993ab894" />](https://youtu.be/uihBwtPIBxM?t=361)  
-- https://youtu.be/uihBwtPIBxM?t=361  
+- https://youtu.be/uihBwtPIBxM?t=361
+- Sobel Operator
+  - https://www.youtube.com/watch?v=Yz7h9L4gecQ&pp=ygUac29iZWwgZWRnZSBkZXRlY3Rpb24gdW5pdHk%3D 
+  - https://youtu.be/ov1nRhlIDLM?t=1
+  - Tuto in Unity game https://youtu.be/AtYhrsyxHB0?t=154
+  - On Bike https://youtu.be/VL8PuOPjVjY?t=13
+    - Good example of how to do it https://youtu.be/VL8PuOPjVjY?t=230 
+1 Bit Graphisc ?
+[<img width="439" height="243" alt="image" src="https://github.com/user-attachments/assets/cc2af820-d84b-4468-9589-9ac13ccc17a5" />](https://www.youtube.com/watch?v=Ap4fXGTOb7I&pp=ygUac29iZWwgZWRnZSBkZXRlY3Rpb24gdW5pdHk%3D
+)  
+https://www.youtube.com/watch?v=Ap4fXGTOb7I&pp=ygUac29iZWwgZWRnZSBkZXRlY3Rpb24gdW5pdHk%3D  
+
+
+
 
 Animal:
 - What see
@@ -261,3 +273,192 @@ Animal:
   - Hard Challeng;
     - Frog
     - Ultra Violet: Snake Bird
+
+
+
+[<img width="755" height="376" alt="image" src="https://github.com/user-attachments/assets/4d5077ca-3a8f-433b-b8be-109e053cb747" />](https://youtu.be/0k1kqoNi4UM?t=275)  
+https://youtu.be/0k1kqoNi4UM?t=275
+
+Job System Pixel
+[<img width="764" height="464" alt="image" src="https://github.com/user-attachments/assets/b9220fbe-a42c-4f1c-a573-6963e1ba10eb" />](https://youtu.be/ZS4wBvms3CI?t=2)  
+https://youtu.be/ZS4wBvms3CI?t=2  
+
+
+16k Drones 
+[<img width="754" height="373" alt="image" src="https://github.com/user-attachments/assets/0c2fc8b4-31de-4b90-abec-844df4e0a302" />](https://youtu.be/bQcMWHdNHaQ?t=3)
+
+https://youtu.be/bQcMWHdNHaQ?t=3
+
+
+Rainbow ?
+https://youtu.be/Zn80AN4k-0E?t=8
+
+<img width="756" height="423" alt="image" src="https://github.com/user-attachments/assets/8529ba75-c45f-4c30-aa14-f1b3c74793bb" />
+
+
+
+Play outside:
+
+[<img width="752" height="375" alt="image" src="https://github.com/user-attachments/assets/d404b169-0eba-4a0d-97b7-d230050459f0" />](https://youtu.be/jzVMX8gSnaI?t=90)  
+https://youtu.be/jzVMX8gSnaI?t=90   
+
+[<img width="760" height="420" alt="image" src="https://github.com/user-attachments/assets/a4b9423c-d052-4c23-a8f2-9f05bb8e6a0c" />](https://youtu.be/zGPvU7xLhIQ?t=575)  
+https://youtu.be/zGPvU7xLhIQ?t=575  
+
+Postmortem:Can we see outside Quest 1 2 ?
+- https://youtu.be/6giMjr7EcXE?t=36
+
+
+Can we play in the dark ?
+[<img width="759" height="372" alt="image" src="https://github.com/user-attachments/assets/d6ef861c-eaed-4e8e-b9d5-79e95df9dcbe" />](https://youtu.be/b91o9Sp-jlU?t=562)  
+https://youtu.be/b91o9Sp-jlU?t=562  
+
+
+
+Note Shader Toy
+[<img width="626" height="349" alt="image" src="https://github.com/user-attachments/assets/24b4e7aa-b234-40ee-99a5-c12699c82977" />](https://www.shadertoy.com/view/33cGDj)  
+https://www.shadertoy.com/view/33cGDj  
+
+
+Note: Crop the border of the image
+<img width="580" height="428" alt="image" src="https://github.com/user-attachments/assets/609472ad-b153-4dd0-8df6-1b8b50129f25" />
+You can use shader graph to cut the border of the camera.
+Making less squary.
+
+
+---------------------
+
+# Open CV 
+
+Youtube: https://www.youtube.com/results?search_query=open+cv
+
+## In Asset store
+
+[<img width="1193" height="729" alt="image" src="https://github.com/user-attachments/assets/3859d2d9-d217-4faf-8181-9b467f3b5783" />](https://assetstore.unity.com/search#q=open%20cv)  
+https://assetstore.unity.com/search#q=open%20cv  
+
+https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
+- Body Detection https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/e2fecce0-c9fc-4b41-a556-7ad4a4a37273.webp
+- Face detection https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/645e1296-a64d-4260-a8d1-b0ef3a82258b.webp
+- Hand Detection  https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/90da4e3f-fba7-4b05-9beb-10854c61df2f.webp
+- AI Yolo Detection https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/534e802d-301e-4f33-9976-e8e0d74b2f8d.webp
+- Tag Image detectio https://youtu.be/oUVq20Xb4sM?t=2
+- Face shape detection https://youtu.be/u5aDbn5nRbY?t=33
+- Bare code detection https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/0b36d674-31a7-40c3-a4d0-55e4a3b05a59.webp
+- Background remove https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/0c68d908-82a0-44ef-8e7c-cdc41e7cd0c9.webp
+- Text Tesseract detection https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/c1d3bf70-15be-4750-94c6-b192a26a06be.webp
+- Document Scanner https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/f41c4ed7-f02f-4ce5-a904-23229f590af2.webp
+- AR Code Detector https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/916a6fb9-391a-44f7-aa28-71b5e6817382.webp
+- MaskRCNN context detection object https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/86e52316-1824-4c3e-baf8-7e504d5a0664.webp
+
+[<img width="612" height="315" alt="image" src="https://github.com/user-attachments/assets/c1a5414b-61f1-4765-a0a6-660a0b7990fa" />](https://youtu.be/oUVq20Xb4sM?t=45)  
+https://youtu.be/oUVq20Xb4sM?t=45  
+
+### Free version
+- https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928
+  - Detect tag  https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/b1aa054b-ffa2-4dfa-9be7-f4150939eac3.webp
+  - Scan document https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/73075c3a-1b74-40ae-88f1-e31aac12893c.webp
+  - Scan Letter https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/2faceace-6bdd-4a84-af8f-bd487ba0ddd3.webp
+  - Scan Face https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/69c2f15d-0978-4f56-aaf6-6a11b30adeed.webp
+
+
+- Image tracker https://assetstore.unity.com/packages/tools/camera/imagine-webar-image-tracker-free-246878
+- 
+## In Python 
+
+Perspective Transformation, important
+https://youtu.be/PeMM80WimN4?t=71
+
+Affine Transformation
+https://youtu.be/PeMM80WimN4?t=70
+
+Erosion 
+https://youtu.be/PeMM80WimN4?t=82
+
+Dilation
+https://youtu.be/PeMM80WimN4?t=83
+
+Opening 
+https://youtu.be/PeMM80WimN4?t=84
+Closing
+https://youtu.be/PeMM80WimN4?t=84
+
+Morphological Gradiant
+Different of opening and closing
+https://youtu.be/PeMM80WimN4?t=85
+
+Laplacian
+https://youtu.be/PeMM80WimN4?t=91
+
+Canny Edge
+https://youtu.be/PeMM80WimN4?t=93
+
+Blending
+https://youtu.be/PeMM80WimN4?t=97
+
+Find Border and corner
+https://youtu.be/PeMM80WimN4?t=102
+
+Plotting Histograms
+https://youtu.be/PeMM80WimN4?t=104
+RGB PLotting
+https://youtu.be/PeMM80WimN4?t=107
+
+Fourier Transform Numpy
+https://youtu.be/PeMM80WimN4?t=110
+
+Tamplate Matching
+https://youtu.be/PeMM80WimN4?t=116
+
+Brute Force Matcher 
+https://youtu.be/PeMM80WimN4?t=172
+
+Hough Line 
+https://youtu.be/PeMM80WimN4?t=119
+
+Hough Cicle
+https://youtu.be/PeMM80WimN4?t=125
+
+Background Remover
+https://youtu.be/PeMM80WimN4?t=134
+
+Harris Corner Detection, Important
+https://youtu.be/PeMM80WimN4?t=143
+
+Surf Points
+https://youtu.be/PeMM80WimN4?t=161
+
+Noice Remover, important:
+https://youtu.be/PeMM80WimN4?t=282
+
+HDR 
+https://youtu.be/PeMM80WimN4?t=296
+
+# Yolo
+
+https://www.youtube.com/results?search_query=yolo+ai+showcase
+
+[<img width="1136" height="279" alt="image" src="https://github.com/user-attachments/assets/a2587249-4539-40a6-b922-a6aa84991378" />](https://www.youtube.com/watch?v=bZIKVaD3dRk&pp=ygUTb3BlbiBjdiBhc3NldCBzdG9yZQ%3D%3D)  
+https://www.youtube.com/watch?v=bZIKVaD3dRk&pp=ygUTb3BlbiBjdiBhc3NldCBzdG9yZQ%3D%3D  
+
+
+# AR fundation
+- No tried
+
+# Vuforia 
+- Not yet availaible
+
+
+
+# Playstation Note
+
+<img width="1500" height="1110" alt="image" src="https://github.com/user-attachments/assets/96deab61-a063-406a-8af4-1ff1731d5d28" />
+Find a ping pong ball with a led in it is the definition of PS Move xD
+
+# Python on server
+
+All those computation are heavy on the GPU and CPU.
+You are better in some case to compute on a server and use the result.
+
+
+
