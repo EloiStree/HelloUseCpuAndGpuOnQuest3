@@ -146,3 +146,8 @@ https://youtu.be/VphtcDhHj40?t=201
 
 Frog only see what is moving
 https://youtu.be/VphtcDhHj40?t=220
+
+
+
+Capture image of Window
+https://github.com/EloiStree/2023_07_23_Fork_uWindowCapture
