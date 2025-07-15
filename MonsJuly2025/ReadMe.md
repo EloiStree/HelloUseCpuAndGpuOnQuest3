@@ -253,7 +253,11 @@ Sober Edge
   - https://youtu.be/ov1nRhlIDLM?t=1
   - Tuto in Unity game https://youtu.be/AtYhrsyxHB0?t=154
   - On Bike https://youtu.be/VL8PuOPjVjY?t=13
-    - Good example of how to do it https://youtu.be/VL8PuOPjVjY?t=230 
+    - Good example of how to do it https://youtu.be/VL8PuOPjVjY?t=230
+  - Shader toy code of it
+    - Example https://www.shadertoy.com/view/MlBSWW
+    - Other https://www.shadertoy.com/view/wd3Sz4
+    - Other example https://www.shadertoy.com/results?query=sobel&sort=popular&filter=webcam
 1 Bit Graphisc ?
 [<img width="439" height="243" alt="image" src="https://github.com/user-attachments/assets/cc2af820-d84b-4468-9589-9ac13ccc17a5" />](https://www.youtube.com/watch?v=Ap4fXGTOb7I&pp=ygUac29iZWwgZWRnZSBkZXRlY3Rpb24gdW5pdHk%3D
 )  
@@ -318,6 +322,12 @@ https://youtu.be/b91o9Sp-jlU?t=562
 Note Shader Toy
 [<img width="626" height="349" alt="image" src="https://github.com/user-attachments/assets/24b4e7aa-b234-40ee-99a5-c12699c82977" />](https://www.shadertoy.com/view/33cGDj)  
 https://www.shadertoy.com/view/33cGDj  
+
+[<img width="629" height="341" alt="image" src="https://github.com/user-attachments/assets/5cb82be9-4fc1-4118-b612-0e2e8b74c0e1" />](https://www.shadertoy.com/view/XlSSzV)
+https://www.shadertoy.com/view/XlSSzV
+
+[<img width="330" height="276" alt="image" src="https://github.com/user-attachments/assets/b57dbc75-268d-490c-80a2-010b59c376ad" />](https://www.shadertoy.com/view/33tGDN)  
+https://www.shadertoy.com/view/33tGDN  
 
 
 Note: Crop the border of the image
@@ -475,4 +485,218 @@ His code;https://github.com/sugi-cho/FlowingParticles
 
 [<img width="1388" height="579" alt="image" src="https://github.com/user-attachments/assets/8aa93e5f-056e-4074-b457-97799cb0899f" />](https://youtu.be/VywzZZwTwto?t=3)  
 https://youtu.be/VywzZZwTwto?t=3  
+
+
+
+# Easy exercice: Convert this to Unity3D 
+
+<img width="1311" height="481" alt="image" src="https://github.com/user-attachments/assets/47644af1-66e2-4d12-be7d-f0ad5c99b759" />
+
+
+
+# Cool Shader Toy for web camera
+
+https://www.shadertoy.com/results?query=&sort=hot&filter=webcam
+
+[<img width="1313" height="331" alt="image" src="https://github.com/user-attachments/assets/ae59a34b-8217-4e52-b070-27cd2372c816" />](https://www.shadertoy.com/view/WXG3zy)
+https://www.shadertoy.com/view/WXG3zy
+
+
+[<img width="1507" height="438" alt="image" src="https://github.com/user-attachments/assets/9159b462-9d8f-4938-9a07-71b0a16bbcf8" />](https://www.shadertoy.com/view/lf33WS) https://www.shadertoy.com/view/lf33WS
+
+
+Detection Movement ;)
+[<img width="614" height="342" alt="image" src="https://github.com/user-attachments/assets/86eb58a4-5d54-406d-8293-2ca05a0085ca" />](https://www.shadertoy.com/view/lXj3Wc)  
+https://www.shadertoy.com/view/lXj3Wc  
+https://www.shadertoy.com/view/tcyGDK
+
+Glitch
+[<img width="1221" height="479" alt="image" src="https://github.com/user-attachments/assets/46602606-8571-4256-bad2-2f7a03fe94d9" />](https://www.shadertoy.com/view/ttdXD8)  
+https://www.shadertoy.com/view/ttdXD8  
+
+Fake Thermal
+[<img width="1360" height="436" alt="image" src="https://github.com/user-attachments/assets/68ad9dbb-49ab-4e81-8148-34a803ba38c0" />
+](https://www.shadertoy.com/view/lXBczw)  
+https://www.shadertoy.com/view/lXBczw  
+
+
+Dispersion
+[<img width="1121" height="436" alt="image" src="https://github.com/user-attachments/assets/e79b3b52-edb3-451c-a7e7-0aebf2a9e315" />](https://www.shadertoy.com/view/W3BSzR)
+https://www.shadertoy.com/view/W3BSzR
+
+
+Sober Pixel
+[<img width="979" height="464" alt="image" src="https://github.com/user-attachments/assets/c1116bac-2347-4c5f-be73-eb80f11edb17" />](https://www.shadertoy.com/view/4sfSR7)
+https://www.shadertoy.com/view/4sfSR7
+
+
+Magic Pencil
+[<img width="1507" height="635" alt="image" src="https://github.com/user-attachments/assets/4b62a2c5-c6de-40bd-bb4e-674e34d1a638" />](https://www.shadertoy.com/view/Xd3SWX)
+https://www.shadertoy.com/view/Xd3SWX
+
+
+[Quad Tree on image
+<img width="949" height="473" alt="image" src="https://github.com/user-attachments/assets/5e34eee8-2c7f-4b69-b4b3-b0d6fd8d2fc6" />](https://www.shadertoy.com/view/XcS3DW)  
+https://www.shadertoy.com/view/XcS3DW   
+
+
+[<img width="1186" height="432" alt="image" src="https://github.com/user-attachments/assets/a44d9a84-d279-40f9-b971-2dc6e680978d" />](https://www.shadertoy.com/view/333GRr)  
+https://www.shadertoy.com/view/333GRr  
+
+
+Shader and Music
+[<img width="1227" height="966" alt="image" src="https://github.com/user-attachments/assets/08fca73b-b29c-454c-a4ca-fa16bbc3db5d" />](https://www.shadertoy.com/view/llVcRG)  
+https://www.shadertoy.com/view/llVcRG 
+
+VHS Filter
+[<img width="1158" height="454" alt="image" src="https://github.com/user-attachments/assets/d7c8d31e-16e1-4b33-a453-c6e89ed754f6" />](https://www.shadertoy.com/view/DdKBRm)  
+https://www.shadertoy.com/view/DdKBRm  
+
+Nice to play around with mouse
+[<img width="1245" height="569" alt="image" src="https://github.com/user-attachments/assets/d87cfd9e-1627-4d1c-8f89-0c98e2619291" />](https://www.shadertoy.com/view/33d3zB)
+https://www.shadertoy.com/view/33d3zB
+
+[<img width="981" height="472" alt="image" src="https://github.com/user-attachments/assets/a89ade8f-f382-4099-a5cc-a7a04017197b" />](https://www.shadertoy.com/view/3fcXRf)  
+https://www.shadertoy.com/view/3fcXRf  
+
+
+[Fluid with time
+<img width="1262" height="479" alt="image" src="https://github.com/user-attachments/assets/c8cd8f9e-4d13-42bc-9a91-99960f8e6a81" />](https://www.shadertoy.com/view/tcsXzr)
+https://www.shadertoy.com/view/tcsXzr
+
+
+[<img width="1400" height="467" alt="image" src="https://github.com/user-attachments/assets/8e001213-f91f-4508-9146-1ab7604fc041" />](https://www.shadertoy.com/view/cll3zf)  
+https://www.shadertoy.com/view/cll3zf  
+
+[<img width="1102" height="467" alt="image" src="https://github.com/user-attachments/assets/7dbe8b0f-b849-4bdc-8e07-5fdb06306477" />](https://www.shadertoy.com/view/wX33zl)
+https://www.shadertoy.com/view/wX33zl
+
+[<img width="1115" height="441" alt="image" src="https://github.com/user-attachments/assets/056e8d42-2296-4265-b3d9-38e2f7f1a66c" />](https://www.shadertoy.com/view/tcGSD1)
+https://www.shadertoy.com/view/tcGSD1
+
+Nice Dot Shader
+[<img width="1210" height="460" alt="image" src="https://github.com/user-attachments/assets/03ab01f4-a791-49c1-af57-fda9a9022447" />](https://www.shadertoy.com/view/WXVGWm)
+https://www.shadertoy.com/view/WXVGWm
+
+Nice simple Matrix filter
+[<img width="1304" height="441" alt="image" src="https://github.com/user-attachments/assets/4b5afc42-e0f7-4d81-bf78-808e892a10e2" />](https://www.shadertoy.com/view/Mffczj)
+https://www.shadertoy.com/view/Mffczj
+
+
+[<img width="892" height="440" alt="image" src="https://github.com/user-attachments/assets/0667dd33-f8bc-478c-9cab-e8b08bc566f4" />](https://www.shadertoy.com/view/XsfcD8)
+https://www.shadertoy.com/view/XsfcD8
+
+Psych
+[<img width="980" height="464" alt="image" src="https://github.com/user-attachments/assets/2c17b950-9f19-4809-bef7-4d357f1d4eb2" />](https://www.shadertoy.com/view/lltGW2)  
+https://www.shadertoy.com/view/lltGW2  
+
+Sober Filter
+<img width="1484" height="708" alt="image" src="https://github.com/user-attachments/assets/84bd90be-02c3-4355-9858-805e2b973603" />
+
+Good edge glow 
+[<img width="1191" height="550" alt="image" src="https://github.com/user-attachments/assets/76673ad7-9036-4655-95b0-2eadd79520f7" />](https://www.shadertoy.com/view/XssGD7)
+https://www.shadertoy.com/view/XssGD7
+
+The fuck :) , Game of life  Sobel Conway
+[<img width="1268" height="449" alt="image" src="https://github.com/user-attachments/assets/9f3befed-36e9-46f5-9220-667fa8a7d0f1" />](https://www.shadertoy.com/view/WdXSRr)
+https://www.shadertoy.com/view/WdXSRr
+
+
+Sober but with color
+[<img width="1025" height="477" alt="image" src="https://github.com/user-attachments/assets/0a9f007b-5b4d-4ee0-a6cc-5c441e16b650" />](https://www.shadertoy.com/view/3lVBRV)
+https://www.shadertoy.com/view/3lVBRV
+
+
+Toon
+[<img width="1252" height="441" alt="image" src="https://github.com/user-attachments/assets/95150b0f-eb07-4f20-8dfe-1df659e506cb" />](https://www.shadertoy.com/view/wdScWD)
+https://www.shadertoy.com/view/wdScWD
+
+Try this one with sound
+[<img width="1258" height="451" alt="image" src="https://github.com/user-attachments/assets/06777cfc-0513-43f0-8d5d-371d2afbc025" />](https://www.shadertoy.com/view/fdKGDD)  
+https://www.shadertoy.com/view/fdKGDD  
+
+[<img width="1209" height="437" alt="image" src="https://github.com/user-attachments/assets/ca57f5ba-a74d-40f4-80bd-902e26e9d55e" />](https://www.shadertoy.com/view/4dyGWm)  
+https://www.shadertoy.com/view/4dyGWm  
+
+Gameboy world
+[<img width="1445" height="480" alt="image" src="https://github.com/user-attachments/assets/605744fb-2e53-4d43-848c-756b14dec227" />](https://www.shadertoy.com/view/ttsSzr)
+https://www.shadertoy.com/view/ttsSzr
+
+Cubery
+[<img width="1367" height="481" alt="image" src="https://github.com/user-attachments/assets/23e1df32-8e42-40d3-80f7-eaf555c72699" />](https://www.shadertoy.com/view/XscSWH)
+https://www.shadertoy.com/view/XscSWH
+
+Cells Cam
+[<img width="1226" height="438" alt="image" src="https://github.com/user-attachments/assets/f38fbc07-d0af-4043-b7ec-39659c33ffeb" />](https://www.shadertoy.com/view/ftVyDR)  
+https://www.shadertoy.com/view/ftVyDR  
+
+Green Matrix Sobel  
+[<img width="1298" height="438" alt="image" src="https://github.com/user-attachments/assets/cf6a89d9-4ef3-4043-8f33-2e27e93743fc" />](https://www.shadertoy.com/view/7td3Wf)
+https://www.shadertoy.com/view/7td3Wf
+
+
+Good old line scanner
+[<img width="1126" height="448" alt="image" src="https://github.com/user-attachments/assets/53b4d311-f916-4d4d-95df-cad174c4f277" />](https://www.shadertoy.com/view/XlVcDz)
+https://www.shadertoy.com/view/XlVcDz
+
+Vertical one
+[<img width="1070" height="436" alt="image" src="https://github.com/user-attachments/assets/d1d8c24f-dd7c-4b76-b92c-e646c13edf17" />](https://www.shadertoy.com/view/ttKBDR)
+https://www.shadertoy.com/view/ttKBDR
+
+neons  nice sobel
+[<img width="1436" height="446" alt="image" src="https://github.com/user-attachments/assets/b4c736e6-e097-423e-bda2-b7123d1bb9bc" />](https://www.shadertoy.com/view/wlcyD2)
+https://www.shadertoy.com/view/wlcyD2  
+
+Motin Hight Light
+[<img width="1028" height="440" alt="image" src="https://github.com/user-attachments/assets/b8140708-e982-4741-a264-43cfbb230395" />](https://www.shadertoy.com/view/4d3GDB)
+https://www.shadertoy.com/view/4d3GDB
+
+Would love a "Jurassic park" Game with that kind of shader
+[<img width="1583" height="451" alt="image" src="https://github.com/user-attachments/assets/fa463382-dd40-4085-b1d9-666b2ff9de51" />](https://www.shadertoy.com/view/ctVBWm)
+https://www.shadertoy.com/view/ctVBWm
+
+Fun time lag
+[<img width="1154" height="430" alt="image" src="https://github.com/user-attachments/assets/6bf00ed6-56c1-49f1-8fcb-20c0e388941d" />](https://www.shadertoy.com/view/dsjXWw)
+https://www.shadertoy.com/view/dsjXWw
+
+
+RGB Screen Line shader
+[<img width="1193" height="439" alt="image" src="https://github.com/user-attachments/assets/8be49c24-271f-444b-a552-f1d2dbb53619" />](https://www.shadertoy.com/view/4fXXWS)
+https://www.shadertoy.com/view/4fXXWS
+
+[<img width="1348" height="469" alt="image" src="https://github.com/user-attachments/assets/bf807dc8-e7ec-4660-a167-2c78b3f6db57" />](https://www.shadertoy.com/view/Mf3yzl)  
+https://www.shadertoy.com/view/Mf3yzl  
+
+Convert to Pixel
+[<img width="1325" height="512" alt="image" src="https://github.com/user-attachments/assets/6d249a03-6c9e-43ea-bb5f-dedecac54f8c" />](https://www.shadertoy.com/view/3lXGzj)
+https://www.shadertoy.com/view/3lXGzj
+[<img width="1309" height="449" alt="image" src="https://github.com/user-attachments/assets/1837b91c-4371-4d57-8628-4e97180c6eae" />](https://www.shadertoy.com/view/MssBzn)
+https://www.shadertoy.com/view/MssBzn
+
+Mirror classic
+[<img width="1206" height="446" alt="image" src="https://github.com/user-attachments/assets/fad5c94e-c9de-4a31-9975-1381024c2863" />](https://www.shadertoy.com/view/WtSXzK)
+https://www.shadertoy.com/view/WtSXzK
+
+THere is a way to make music with that
+[<img width="1186" height="451" alt="image" src="https://github.com/user-attachments/assets/0a5ce0ac-1a30-46da-9d46-86c6a0f17deb" />](https://www.shadertoy.com/view/wlKczW)
+https://www.shadertoy.com/view/wlKczW
+
+## Life with lag ?
+I was there 3000 years ago 
+[<img width="1238" height="651" alt="image" src="https://github.com/user-attachments/assets/883f8fb0-80b4-4c95-8d85-dea8d8741399" />](https://youtu.be/_fNp37zFn9Q?t=48)
+https://youtu.be/_fNp37zFn9Q?t=48
+
+[<img width="1197" height="300" alt="image" src="https://github.com/user-attachments/assets/48a2ba03-1fa7-4b51-a12f-9d51ec058040" />](https://youtu.be/_fNp37zFn9Q?t=71)
+https://youtu.be/_fNp37zFn9Q?t=71
+
+[<img width="1396" height="659" alt="image" src="https://github.com/user-attachments/assets/ef591b57-8a12-4bef-abc8-8e7927cb176b" />](https://youtu.be/_fNp37zFn9Q?t=90)
+
+[<img width="868" height="402" alt="image" src="https://github.com/user-attachments/assets/6e1fae1c-fb2d-4c75-80e4-6f1d1bf49fdb" />](https://youtu.be/_fNp37zFn9Q?t=150)
+https://youtu.be/_fNp37zFn9Q?t=150
+[<img width="1381" height="564" alt="image" src="https://github.com/user-attachments/assets/0a856ccf-f08e-4f0e-96d4-f1bc4598c456" />](https://youtu.be/_fNp37zFn9Q?t=154)
+https://youtu.be/_fNp37zFn9Q?t=154
+
+
+
+
 
