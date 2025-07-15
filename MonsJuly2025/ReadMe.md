@@ -89,3 +89,60 @@ https://chatgpt.com/share/68760590-a938-800e-b5ba-a99259b6d154
 ](https://scipython.com/blog/converting-a-spectrum-to-a-colour/)  
 https://scipython.com/blog/converting-a-spectrum-to-a-colour/  
 Maybe:https://chatgpt.com/share/687609af-98ec-800e-8f90-78556223c6e3
+
+
+
+https://gitlab.com/eloistree/2018_06_01_MeshToVoxel
+
+
+
+Frida Wall
+[<img width="1260" height="558" alt="image" src="https://github.com/user-attachments/assets/01360622-d91a-421d-bb40-b6ec3a23db2c" />
+](https://youtu.be/pVxhmuf2IeA?t=141)  
+https://youtu.be/pVxhmuf2IeA?t=141  
+https://youtu.be/rso9u7mkP68?t=9  
+
+[<img width="1258" height="558" alt="image" src="https://github.com/user-attachments/assets/473796fd-8d9a-4040-8628-4852884a6c2c" />
+<img width="1156" height="623" alt="image" src="https://github.com/user-attachments/assets/99df6a1e-7482-4955-92a3-69700520fcde" />
+](https://youtu.be/gT3I8qI2y4E?t=998)  
+https://youtu.be/gT3I8qI2y4E?t=998
+
+
+
+Replicator
+[<img width="1225" height="586" alt="image" src="https://github.com/user-attachments/assets/ec412c3d-c2f8-4c5f-8171-ce402613e3c5" />
+](https://youtu.be/BPbTssjNvzs?t=16)
+https://youtu.be/BPbTssjNvzs?t=16
+
+
+Il n y a que trois meshs ici:
+[<img width="1374" height="610" alt="image" src="https://github.com/user-attachments/assets/9c37f244-bd94-4004-952e-6bcd62c9ee27" />](https://youtu.be/f21l7T1aFu0?t=14)
+
+
+
+[<img width="598" height="647" alt="image" src="https://github.com/user-attachments/assets/d64c9a6b-f153-44b0-9ea1-8b0a3737dfb8" />](https://people.eecs.berkeley.edu/~sequin/CS184/TOPICS/ColorSpaces/Color_0.html)
+
+[<img width="966" height="425" alt="image" src="https://github.com/user-attachments/assets/35ac5bf0-bfec-45b5-b1e5-372a9d40b6e4" />](https://people.eecs.berkeley.edu/~sequin/CS184/TOPICS/ColorSpaces/Color_0.html)  
+https://people.eecs.berkeley.edu/~sequin/CS184/TOPICS/ColorSpaces/Color_0.html
+
+
+
+Snake https://youtu.be/VphtcDhHj40?t=13
+Cow ; No Read https://youtu.be/VphtcDhHj40?t=30
+Bird + ulta violet = https://youtu.be/VphtcDhHj40?t=110
+
+Fish = less red https://youtu.be/VphtcDhHj40?t=84
+Shark = Grayscale https://youtu.be/VphtcDhHj40?t=94
+
+
+Bee : red is a dark blue
+https://youtu.be/VphtcDhHj40?t=159
+
+Car: Not red or green but have some borwn yellow  https://youtu.be/VphtcDhHj40?t=177
+Better grain intensity
+
+Dog: Cant see red or orange but can see blue and violet with good gray
+https://youtu.be/VphtcDhHj40?t=201
+
+Frog only see what is moving
+https://youtu.be/VphtcDhHj40?t=220
