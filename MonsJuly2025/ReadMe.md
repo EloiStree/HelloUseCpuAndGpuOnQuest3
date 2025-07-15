@@ -142,7 +142,7 @@ Shark = Grayscale https://youtu.be/VphtcDhHj40?t=94
 Bee : red is a dark blue
 https://youtu.be/VphtcDhHj40?t=159
 
-Car: Not red or green but have some borwn yellow  https://youtu.be/VphtcDhHj40?t=177
+Cat: Not red or green but have some borwn yellow  https://youtu.be/VphtcDhHj40?t=177
 Better grain intensity
 
 Dog: Cant see red or orange but can see blue and violet with good gray
@@ -155,3 +155,109 @@ https://youtu.be/VphtcDhHj40?t=220
 
 Capture image of Window
 https://github.com/EloiStree/2023_07_23_Fork_uWindowCapture
+
+
+
+
+View in Infrared Light 
+[<img width="1286" height="707" alt="image" src="https://github.com/user-attachments/assets/51c76aae-3528-4a80-aa1f-fdbbebc6218a" />](https://youtu.be/PTgBxZ3PMF4?t=70)  
+https://youtu.be/PTgBxZ3PMF4?t=70
+
+
+
+
+Note: Eye tracking app
+<img width="1368" height="736" alt="image" src="https://github.com/user-attachments/assets/29dc7013-4584-4811-9436-0aa38025f3b4" />
+https://youtu.be/alz0f_hmgJk?t=433
+
+
+
+
+-----------------------
+
+Ambiance: 
+- Is player is in the full dark ?
+- Is player is in a one light environment ?
+- Is player is in a room at night
+- Is player is in room with not a lots of light ?
+- Is player is in a room with light from window ?
+- Is player is in a room wiht lots of light ?
+- Is player in a room with sun bath of light ?
+- Is player is outside ?
+- Is player outside with a cloudy day ?
+- Is player outside with full light
+- Is a sky present in the player view ? 
+- Is green present in player view ?
+- ... ?
+
+Human:
+- 
+
+Reality Hacker:
+- [ ] [InvPermute BGR](https://youtu.be/JnZOoryLwAI?t=1)
+- [ ] InvPermute BRG https://youtu.be/JnZOoryLwAI?t=10
+- [ ] InvPermute GBR https://youtu.be/JnZOoryLwAI?t=13
+- [ ] InvPermute GRB https://youtu.be/JnZOoryLwAI?t=18
+- [ ] InvPermute RBG https://youtu.be/JnZOoryLwAI?t=23
+- [ ] Permute BGR https://youtu.be/JnZOoryLwAI?t=27
+- [ ] Permute BRG https://youtu.be/JnZOoryLwAI?t=31
+- [ ] Permute GBR https://youtu.be/JnZOoryLwAI?t=37
+- [ ] Permute GRB https://youtu.be/JnZOoryLwAI?t=41
+- [ ] Permute RBG https://youtu.be/JnZOoryLwAI?t=45
+- [ ] Magenta Flash https://youtu.be/JnZOoryLwAI?t=49
+- [ ] Yellow Flash https://youtu.be/JnZOoryLwAI?t=54
+- [ ] Cyan Flash https://youtu.be/JnZOoryLwAI?t=59
+- [ ] Blue Flash https://youtu.be/JnZOoryLwAI?t=63
+- [ ] Green Flash https://youtu.be/JnZOoryLwAI?t=68
+- [ ] Red Flash https://youtu.be/JnZOoryLwAI?t=72
+- [ ] See
+  - [ ] Yellow https://youtu.be/JnZOoryLwAI?t=75
+  - [ ] Magenta https://youtu.be/JnZOoryLwAI?t=78
+  - [ ] Cyan https://youtu.be/JnZOoryLwAI?t=82
+  - [ ] Blue https://youtu.be/JnZOoryLwAI?t=86
+  - [ ] Green https://youtu.be/JnZOoryLwAI?t=90
+  - [ ] Red https://youtu.be/JnZOoryLwAI?t=94
+- [ ] Tritanopia Corrected https://youtu.be/JnZOoryLwAI?t=99
+- [ ] Tritanopia Simulator https://youtu.be/JnZOoryLwAI?t=105
+- [ ] Deuteranopia Corrected https://youtu.be/JnZOoryLwAI?t=109
+- [ ] Deuteranopia Simulator https://youtu.be/JnZOoryLwAI?t=113
+- [ ] Protanopia Corrected https://youtu.be/JnZOoryLwAI?t=119
+- [ ] Protanopia Simulator https://youtu.be/JnZOoryLwAI?t=123
+- [ ] Sobel Posterize https://youtu.be/JnZOoryLwAI?t=127
+- [ ] Posterize https://youtu.be/JnZOoryLwAI?t=131
+- [ ] Sobel Cartoon https://youtu.be/JnZOoryLwAI?t=135
+- [ ] Inverted Sobel Edge https://youtu.be/JnZOoryLwAI?t=138
+- [ ] Sobel Edge https://youtu.be/JnZOoryLwAI?t=145
+- [ ] Inverted https://youtu.be/JnZOoryLwAI?t=149
+- [ ] Grayscale https://youtu.be/JnZOoryLwAI?t=155
+
+Disease that affect vision:
+- Diabetic Retinapathy https://youtu.be/WHwGegMfiHU?t=128
+- Cataract https://www.youtube.com/results?search_query=cataract+simulation
+  - Nuclear Cataract https://youtu.be/alz0f_hmgJk?t=290
+  - Cortical Cataract https://youtu.be/alz0f_hmgJk?t=349
+  - Posterior Subcapsular Cataract https://youtu.be/alz0f_hmgJk?t=360
+- Glaucoma https://youtu.be/cVFzDrmAY78?t=14 https://youtu.be/c8tjFByZ-ss?t=20
+- Macular Degeneration https://youtu.be/JmQ4oLQXGDQ?t=19
+
+
+Oculus DK12 Chromatic aberration: 
+- https://youtu.be/oE8Zjr5NJrM?t=42
+- Unity example https://youtu.be/tDxIeWGBmDc?t=5
+  
+
+Sober Edge 
+[<img width="673" height="666" alt="image" src="https://github.com/user-attachments/assets/fb5c2504-14f0-4373-b4ba-e1b2993ab894" />](https://youtu.be/uihBwtPIBxM?t=361)  
+- https://youtu.be/uihBwtPIBxM?t=361  
+
+Animal:
+- What see
+  - a cow or a deer
+  - Fish
+  - A shark
+  - Bee
+  - Cat
+  - Dog
+  - Hard Challeng;
+    - Frog
+    - Ultra Violet: Snake Bird
