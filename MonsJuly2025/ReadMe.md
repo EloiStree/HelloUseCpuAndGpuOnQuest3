@@ -462,3 +462,17 @@ You are better in some case to compute on a server and use the result.
 
 
 
+# FUCKING GOOD EXAMPLE OF A COOL STUFF TO DO IN QUEST 3
+
+That but with CameraAPI and DEPTH API using COmpute and Job system to process
+[<img width="1330" height="705" alt="image" src="https://github.com/user-attachments/assets/fa36f2a1-2b34-4933-9c5f-4360ef0d3cde" />](https://youtu.be/v7XTJbSbcHY?t=4)  
+https://youtu.be/v7XTJbSbcHY?t=4  
+His code;https://github.com/sugi-cho/FlowingParticles
+
+
+
+# What I want to be able to make with color Filtering
+
+[<img width="1388" height="579" alt="image" src="https://github.com/user-attachments/assets/8aa93e5f-056e-4074-b457-97799cb0899f" />](https://youtu.be/VywzZZwTwto?t=3)  
+https://youtu.be/VywzZZwTwto?t=3  
+
