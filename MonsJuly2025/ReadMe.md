@@ -4,9 +4,8 @@ Salut à tous, pas de pression 😁, on va faire simple mais techy.
 * **Day 1** : Petit drone volant en XR
 * **Day 2** : Pratique des shaders selon votre niveau sur la caméra du Quest 3.
 
-Udemy XR AI Hack Meta:
-https://www.udemy.com/course/mixedreality/?
-couponCode=XRAIHACK
+Udemy XR AI Hack Meta:  
+https://www.udemy.com/course/mixedreality/?couponCode=XRAIHACK  
 
 # Jeudi
 
