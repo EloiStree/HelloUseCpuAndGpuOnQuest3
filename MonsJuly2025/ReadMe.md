@@ -97,6 +97,7 @@ Reproduire cette application perdue dans le temps :
 * [ ] Choisir un challenge :
 
   * [ ] Trouver les quatre coins d’un post-it en moins de 1 ms
+  * [ ] Trouver le centre de spheres en moins de 1 ms
   * [ ] Explorer [Open CV Free](https://assetstore.unity.com/search#q=OpenCV) sur le Quest 3
   * [ ] Choisir un [ShaderToy](https://www.shadertoy.com/results?query=&sort=hot&filter=webcam) selon votre niveau et le convertir pour Unity3D
   * [ ] Utiliser Flask pour faire communiquer du code Python sur PC avec le Quest 3
