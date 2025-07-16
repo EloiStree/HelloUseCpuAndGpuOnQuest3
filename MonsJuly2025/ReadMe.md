@@ -1,4 +1,9 @@
 
+Salut a tous, pas de pression 😁, on va faire simple mais techy.
+
+Day 1: Petite drone volant en XR
+Day 2: Pratiquer les Shader selon votre niveau sur la camera du Quest3.
+
 
 # Jeudi
 
@@ -17,6 +22,9 @@ Intention: Vous apprendre a configurer un project XR.
 **Après-midi :**
 
 - [ ] Ajouter un drone Tello
+  - [ ] [Kid Toy packages](https://github.com/EloiStree?tab=repositories&q=_KidToy&type=&language=&sort=)
+    - [ ] [Small double side car](https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode)
+    - [ ] [Tello Drone](https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode)  
 - [ ] Ajouter un Input Action
 - [ ] Relier les deux via le clavier
 - [ ] Ajouter le système d’Input OpenXR
@@ -24,23 +32,35 @@ Intention: Vous apprendre a configurer un project XR.
 - [ ] Installer Link sur le PC
 - [ ] Vérifier si les PC supportent Link
 - [ ] Créer un circuit
+- [ ] Ajouter un XRTK Grip sur les objets du circuit
 - [ ] Jouer a [XRTK](www.youtube.com/watch?v=eDicfcAgJB4&pp=0gcJCb4JAYcqIYzv)
+  - [ ] https://github.com/EloiStree/2024_07_16_MonsXrDesign/releases/tag/V0
 
 ---
 
 # Vendredi
 
-Intention: Vous apprendre a utiliser de Compute Shader pour la XR
+Intention: Vous apprendre a utiliser le Compute Shader pour la XR
 
-Reproduire cette application perdu dans le temps: [Reality Hacker VR](https://reality-hacker-vr.en.softonic.com/android)
-[<img width="1901" height="995" alt="image" src="https://github.com/user-attachments/assets/d379e7ed-027f-48e4-9bb5-0e97162601aa" />](https://youtu.be/JnZOoryLwAI
-)  
+Reproduire cette application perdu dans le temps:  
+[Reality Hacker VR](https://reality-hacker-vr.en.softonic.com/android)  
+
+[<img width="1901" height="995" alt="image" src="https://github.com/user-attachments/assets/d379e7ed-027f-48e4-9bb5-0e97162601aa" />](https://youtu.be/JnZOoryLwAI)    
 https://youtu.be/JnZOoryLwAI  
+
+
+
 
 **Matin :**
 
-- [ ] Cloner et configurer le projet de passthrough de Meta
+- [ ] Creer un diaporama d'images dans un RenderTexture de 1280x930
+- [ ] Creer un Canvas avec des RawImage dans le cas appliquer le RenderTexture
+- [ ] Creer pour le fun un premier Shader Graph qui inverse deux couleurs
+- [ ] Creer pour le fun un compute Shader qui inverse deux couleurs
+- [ ] Creer un shader qui garde les couleurs entre deux bornes.
 
+
+- [ ] Cloner et configurer le projet de passthrough de Meta
   - [ ] [https://github.com/meta-quest/Meta-Passthrough-Camera-API-Samples](https://github.com/meta-quest/Meta-Passthrough-Camera-API-Samples)
 - [ ] Le builder et l’essayer
 - [ ] Extraire la `WebCamTexture` de la caméra
@@ -48,6 +68,7 @@ https://youtu.be/JnZOoryLwAI
 - [ ] Récupérer les photos avec SideQuest
 - [ ] *Pause*
 - [ ] Transformer une `Texture2D` en `RenderTexture`
+  - [ ] [Jouons avec le temps](https://github.com/EloiStree/OpenUPM_WatchExecuteTime) 
 - [ ] Inverser deux couleurs avec un Compute Shader
 - [ ] Pour le fun : séparer les canaux rouge, vert et bleu
 - [ ] Appliquer les nouvelles textures sur des cubes
@@ -56,17 +77,14 @@ https://youtu.be/JnZOoryLwAI
 
 - [ ] Introduction au hackathon :
   - [ ] [https://xrbootcamp.typeform.com/xraihack2025](https://xrbootcamp.typeform.com/xraihack2025)
-- [ ] Isoler la couleur orange avec un code traditionnel
+- [ ] Isoler la couleur de votre post-it/balles de tennis de table
   - [ ] Observer le temps d’exécution
-- [ ] Essayer avec Shader Graph :
-  - [ ] Récupérer la texture
-  - [ ] Observer le temps d’exécution
-- [ ] Essayer avec un Compute Shader
-  - [ ] Observer le temps d’exécution
-- [ ] Essayer avec le Job System pour comparaison
-  - [ ] Observer le temps d’exécution
-- [ ] **Exercice :**
-  - [ ] Trouver les quatre coins d’un post-it
+-  [ ] Choisir un challenge:
+  - [ ] Trouver les quatres coins d’un post-it en moins de 1ms
+  - [ ] Explorer [Open CV Free](https://assetstore.unity.com/search#q=OpenCV) sur le Quest3
+  - [ ] Choisir un [ShaderToy](https://www.shadertoy.com/results?query=&sort=hot&filter=webcam) selon votre niveau et le convertir sur Unity3D
+  - [ ] Utiliser Flask pour utiliser de code Python sur PC depuis le Quest3.
+
 
 ---
 
@@ -77,10 +95,16 @@ https://youtu.be/JnZOoryLwAI
 - [ ] [Texture2D Toolbox](https://github.com/EloiStree/2025_06_13_ToolboxTexture2D)
 
 
-<img width="2048" height="2048" alt="ColorSpectrumWithPingPong" src="https://github.com/user-attachments/assets/b3e3a353-d526-413e-afd5-058113c6da3d" />
+Utiliser cette image pour les exercices de filtre de couleur:  
+<img width="2048" height="2048" alt="ColorSpectrumWithPingPong" src="https://github.com/user-attachments/assets/b3e3a353-d526-413e-afd5-058113c6da3d" />  
 
 
 
+------------------
+
+# Foutoir
+
+--------
 
 Link:
 Les yeux du Daltonisme: https://lesyeuxdudaltonisme.fr/les-types-de-daltonisme/
