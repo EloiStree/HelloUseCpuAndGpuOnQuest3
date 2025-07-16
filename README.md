@@ -1,10 +1,8 @@
 
 > Keep it simple stupide: **A Sphere where the tennis table ball is.**
 
-https://xrbootcamp.typeform.com/xraihack2025
+🎯Meta AI Hackathon 2025: https://xrbootcamp.typeform.com/xraihack2025
 
-
-www.youtube.com/watch?v=eDicfcAgJB4&pp=0gcJCb4JAYcqIYzv
 ---------
 
 # Use CPU and GPU for Quest3 
@@ -23,9 +21,6 @@ Photo of the Quest3:
 
 ### Exercice:  16 ms !
 
-Filtrer pour ne garder que l orange d une image.
-
-
 - Filtrer la couleur orange  d'un image
   - Avec vos connaissances actuelles
   - Avec un compute Shader
@@ -34,14 +29,11 @@ Filtrer pour ne garder que l orange d une image.
     - Utiliser plusieurs [CPU](https://youtu.be/Ge-g3xZ5bb8?t=18)
   - Bonus: Avec ShaderGraph
  
-### Exercice: Convertir en un RendererTexture 
+### Exercice: Convertion 
 
-#### Un [Texture2D](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/216)
-
-
-#### Un [WebcamTexture](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/337)
-
-
+- [ ] Texture2D en RenderTexture
+- [ ] Un [Texture2D](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/216)
+- [ ] Un [WebcamTexture](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/337)
 
 
 ### Exercice: Convertir votre RenderTexture en NativeArray<Color32>
