@@ -3,6 +3,8 @@
 
 🎯Meta AI Hackathon 2025: https://xrbootcamp.typeform.com/xraihack2025
 
+Mons: [17-18 July Workshop](https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3/tree/main/MonsJuly2025)
+
 ---------
 
 # Use CPU and GPU for Quest3 
