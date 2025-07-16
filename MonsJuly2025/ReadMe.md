@@ -1,102 +1,115 @@
 
-Salut a tous, pas de pression 😁, on va faire simple mais techy.
+Salut à tous, pas de pression 😁, on va faire simple mais techy.
 
-Day 1: Petite drone volant en XR
-Day 2: Pratiquer les Shader selon votre niveau sur la camera du Quest3.
-
+* **Day 1** : Petit drone volant en XR
+* **Day 2** : Pratique des shaders selon votre niveau sur la caméra du Quest 3.
 
 # Jeudi
 
-Intention: Vous apprendre a configurer un project XR.
+**Intention** : Vous apprendre à configurer un projet XR.
 
 **Matin :**
 
-- Créer un projet Unity URP
-- Ajouter OpenXR
-- Ajouter le SDK Meta
-- Ajouter un objet 3D
-- Ajouter un script XRTK
-- Dernière vérification
-- Build sur le Quest 3
+* Créer un projet Unity URP
+* Ajouter OpenXR
+* Ajouter le SDK Meta
+* Ajouter un objet 3D
+* Ajouter un script XRTK
+* Dernière vérification
+* Build sur le Quest 3
 
 **Après-midi :**
 
-- [ ] Ajouter un drone Tello
-  - [ ] [Kid Toy packages](https://github.com/EloiStree?tab=repositories&q=_KidToy&type=&language=&sort=)
-    - [ ] [Small double side car](https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode)
-    - [ ] [Tello Drone](https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode)  
-- [ ] Ajouter un Input Action
-- [ ] Relier les deux via le clavier
-- [ ] Ajouter le système d’Input OpenXR
-- [ ] Build and hope
-- [ ] Installer Link sur le PC
-- [ ] Vérifier si les PC supportent Link
-- [ ] Créer un circuit
-- [ ] Ajouter un XRTK Grip sur les objets du circuit
-- [ ] Jouer a [XRTK](www.youtube.com/watch?v=eDicfcAgJB4&pp=0gcJCb4JAYcqIYzv)
-  - [ ] https://github.com/EloiStree/2024_07_16_MonsXrDesign/releases/tag/V0
+* [ ] Ajouter un drone Tello
+
+  * [ ] [Kid Toy packages](https://github.com/EloiStree?tab=repositories&q=_KidToy&type=&language=&sort=)
+
+    * [ ] [Small double side car](https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode)
+    * [ ] [Tello Drone](https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode)
+* [ ] Ajouter une Input Action
+* [ ] Relier les deux via le clavier
+* [ ] Ajouter le système d’input OpenXR
+* [ ] Build and hope
+* [ ] Installer Link sur le PC
+* [ ] Vérifier si les PC supportent Link
+* [ ] Créer un circuit
+* [ ] Ajouter un XRTK Grip sur les objets du circuit
+* [ ] Jouer à [XRTK](www.youtube.com/watch?v=eDicfcAgJB4&pp=0gcJCb4JAYcqIYzv)
+
+  * [ ] [https://github.com/EloiStree/2024\_07\_16\_MonsXrDesign/releases/tag/V0](https://github.com/EloiStree/2024_07_16_MonsXrDesign/releases/tag/V0)
 
 ---
 
 # Vendredi
 
-Intention: Vous apprendre a utiliser le Compute Shader pour la XR
+**Intention** : Vous apprendre à utiliser le Compute Shader pour la XR.
 
-Reproduire cette application perdu dans le temps:  
-[Reality Hacker VR](https://reality-hacker-vr.en.softonic.com/android)  
+Reproduire cette application perdue dans le temps :
+[Reality Hacker VR](https://reality-hacker-vr.en.softonic.com/android)
 
-[<img width="1901" height="995" alt="image" src="https://github.com/user-attachments/assets/d379e7ed-027f-48e4-9bb5-0e97162601aa" />](https://youtu.be/JnZOoryLwAI)    
-https://youtu.be/JnZOoryLwAI  
-
-
-
+[<img width="1901" height="995" alt="image" src="https://github.com/user-attachments/assets/d379e7ed-027f-48e4-9bb5-0e97162601aa" />](https://youtu.be/JnZOoryLwAI)
+[https://youtu.be/JnZOoryLwAI](https://youtu.be/JnZOoryLwAI)
 
 **Matin :**
 
-- [ ] Creer un diaporama d'images dans un RenderTexture de 1280x930
-- [ ] Creer un Canvas avec des RawImage dans le cas appliquer le RenderTexture
-- [ ] Creer pour le fun un premier Shader Graph qui inverse deux couleurs
-- [ ] Creer pour le fun un compute Shader qui inverse deux couleurs
-- [ ] Creer un shader qui garde les couleurs entre deux bornes.
+* [ ] Créer un diaporama d'images dans un RenderTexture de 1280x930
 
+* [ ] Créer un Canvas avec des RawImage dans lequel appliquer le RenderTexture
 
-- [ ] Cloner et configurer le projet de passthrough de Meta
-  - [ ] [https://github.com/meta-quest/Meta-Passthrough-Camera-API-Samples](https://github.com/meta-quest/Meta-Passthrough-Camera-API-Samples)
-- [ ] Le builder et l’essayer
-- [ ] Extraire la `WebCamTexture` de la caméra
-- [ ] Prendre des photos au format TGA depuis la caméra
-- [ ] Récupérer les photos avec SideQuest
-- [ ] *Pause*
-- [ ] Transformer une `Texture2D` en `RenderTexture`
-  - [ ] [Jouons avec le temps](https://github.com/EloiStree/OpenUPM_WatchExecuteTime) 
-- [ ] Inverser deux couleurs avec un Compute Shader
-- [ ] Pour le fun : séparer les canaux rouge, vert et bleu
-- [ ] Appliquer les nouvelles textures sur des cubes
+* [ ] Créer, pour le fun, un premier Shader Graph qui inverse deux couleurs
+
+* [ ] Créer, pour le fun, un Compute Shader qui inverse deux couleurs
+
+* [ ] Créer un shader qui garde les couleurs entre deux bornes
+
+* [ ] Cloner et configurer le projet de passthrough de Meta
+
+  * [ ] [https://github.com/meta-quest/Meta-Passthrough-Camera-API-Samples](https://github.com/meta-quest/Meta-Passthrough-Camera-API-Samples)
+
+* [ ] Le builder et l’essayer
+
+* [ ] Extraire la `WebCamTexture` de la caméra
+
+* [ ] Prendre des photos au format TGA depuis la caméra
+
+* [ ] Récupérer les photos avec SideQuest
+
+* [ ] *Pause*
+
+* [ ] Transformer une `Texture2D` en `RenderTexture`
+
+  * [ ] [Jouons avec le temps](https://github.com/EloiStree/OpenUPM_WatchExecuteTime)
+
+* [ ] Inverser deux couleurs avec un Compute Shader
+
+* [ ] Pour le fun : séparer les canaux rouge, vert et bleu
+
+* [ ] Appliquer les nouvelles textures sur des cubes
 
 **Après-midi :**
 
-- [ ] Introduction au hackathon :
-  - [ ] [https://xrbootcamp.typeform.com/xraihack2025](https://xrbootcamp.typeform.com/xraihack2025)
-- [ ] Isoler la couleur de votre post-it/balles de tennis de table
-  - [ ] Observer le temps d’exécution
--  [ ] Choisir un challenge:
-  - [ ] Trouver les quatres coins d’un post-it en moins de 1ms
-  - [ ] Explorer [Open CV Free](https://assetstore.unity.com/search#q=OpenCV) sur le Quest3
-  - [ ] Choisir un [ShaderToy](https://www.shadertoy.com/results?query=&sort=hot&filter=webcam) selon votre niveau et le convertir sur Unity3D
-  - [ ] Utiliser Flask pour utiliser de code Python sur PC depuis le Quest3.
+* [ ] Introduction au hackathon :
 
+  * [ ] [https://xrbootcamp.typeform.com/xraihack2025](https://xrbootcamp.typeform.com/xraihack2025)
+* [ ] Isoler la couleur de votre post-it / balle de tennis de table
+
+  * [ ] Observer le temps d’exécution
+* [ ] Choisir un challenge :
+
+  * [ ] Trouver les quatre coins d’un post-it en moins de 1 ms
+  * [ ] Explorer [Open CV Free](https://assetstore.unity.com/search#q=OpenCV) sur le Quest 3
+  * [ ] Choisir un [ShaderToy](https://www.shadertoy.com/results?query=&sort=hot&filter=webcam) selon votre niveau et le convertir pour Unity3D
+  * [ ] Utiliser Flask pour faire communiquer du code Python sur PC avec le Quest 3
 
 ---
 
 **Packages utiles :**
 
-- [ ] [Play With Camera API](https://github.com/EloiStree/2025_06_13_PlayWithCameraAPI.git)
-- [ ] [Watch Execute Time](https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git)
-- [ ] [Texture2D Toolbox](https://github.com/EloiStree/2025_06_13_ToolboxTexture2D)
+* [ ] [Play With Camera API](https://github.com/EloiStree/2025_06_13_PlayWithCameraAPI.git)
+* [ ] [Watch Execute Time](https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git)
+* [ ] [Texture2D Toolbox](https://github.com/EloiStree/2025_06_13_ToolboxTexture2D)
 
-
-Utiliser cette image pour les exercices de filtre de couleur:  
-<img width="2048" height="2048" alt="ColorSpectrumWithPingPong" src="https://github.com/user-attachments/assets/b3e3a353-d526-413e-afd5-058113c6da3d" />  
+Utiliser cette image pour les exercices de filtre de couleur : <img width="2048" height="2048" alt="ColorSpectrumWithPingPong" src="https://github.com/user-attachments/assets/b3e3a353-d526-413e-afd5-058113c6da3d" />
 
 
 
