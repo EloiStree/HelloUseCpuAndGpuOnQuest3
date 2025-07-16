@@ -54,6 +54,13 @@ Main Keywords :
   - [ ] Texture -> TGA
   - [ ] RenderTexture -> .color32
 
+# Exercice: Isolate color(s) from that image
+
+<img width="1050" height="1049" alt="image" src="https://github.com/user-attachments/assets/f056839b-4614-4e6e-8355-0878c1040036" />
+As example, Reality Hacker application:
+[<img width="1421" height="642" alt="image" src="https://github.com/user-attachments/assets/94be6f07-f79a-4c61-98e6-48383b09516e" />](https://www.youtube.com/watch?v=JnZOoryLwAI)  
+https://www.youtube.com/watch?v=JnZOoryLwAI  
+
 
 
 # A lit bit of random words 😉
