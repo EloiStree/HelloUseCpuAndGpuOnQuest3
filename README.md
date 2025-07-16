@@ -31,9 +31,17 @@ Photo of the Quest3:
  
 ### Exercice: Convertion 
 
-- [ ] Texture2D en RenderTexture
-- [ ] Un [Texture2D](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/216)
-- [ ] Un [WebcamTexture](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/337)
+[Texture2D](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/216) - [WebcamTexture](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/337)
+
+- [ ] Texture2D <-> RenderTexture
+- [ ] WebCamTexture -> RenderTexture
+- [ ] RenderTexture -> Resized RendererTexture
+- [ ] RenderTexture -> NativeArray<Color32>
+- [ ] RenderTexture -> Compute Shader -> RenderTexture
+- [ ] NativeArray<Color32> -> JobSystem -> NativeArray<Color32>
+- [ ] NativeArray<Color32> -> JobSystem -> NativeArray<T>
+
+
 
 
 ### Exercice: Convertir votre RenderTexture en NativeArray<Color32>
