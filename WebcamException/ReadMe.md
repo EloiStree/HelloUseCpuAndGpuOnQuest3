@@ -5,12 +5,17 @@ Welcome in the real life
 
 <img width="1285" height="493" alt="image" src="https://github.com/user-attachments/assets/2a418897-9d4a-4d37-8e6d-b4193464132b" />
 <img width="1898" height="892" alt="image" src="https://github.com/user-attachments/assets/4597ff52-ec6a-4aac-86e1-ad52be1f88ab" />
+<img width="834" height="660" alt="image" src="https://github.com/user-attachments/assets/e36d4281-6c4b-4960-a84c-2b0dc25f557b" />
 
 Example:
-- All white are burn
+- All white are burn to gray, white and blue cyan
 - Cyan become white
-- Red become orange
-- Blue become cyan 
+- Red become orange brown
+- Blue become cyan
+- Green turn yellow
+- Dark purple turn pink
+- Purple turn to white
+- d
 - ...
 
 So What color should we use.
